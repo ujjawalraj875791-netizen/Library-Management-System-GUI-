@@ -1,0 +1,22 @@
+[
+  {
+    "id": "L001",
+    "book_id": "B001",
+    "user_id": "U001",
+    "issue_date": "2026-10-15",
+    "due_date": "2026-10-29",
+    "returned": false,
+    "return_date": null,
+    "fine_paid": 0.0
+  },
+  {
+    "id": "L002",
+    "book_id": "B001",
+    "user_id": "U002",
+    "issue_date": "2026-10-15",
+    "due_date": "2026-10-29",
+    "returned": false,
+    "return_date": null,
+    "fine_paid": 0.0
+  }
+]

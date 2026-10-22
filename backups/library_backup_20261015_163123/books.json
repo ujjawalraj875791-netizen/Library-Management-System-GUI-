@@ -1,0 +1,23 @@
+[
+  {
+    "id": "B001",
+    "title": "C Programing",
+    "author": "denie Richie",
+    "category": "Computer",
+    "copies": 5
+  },
+  {
+    "id": "B002",
+    "title": "java Programing",
+    "author": "James Gosling",
+    "category": "Computer",
+    "copies": 6
+  },
+  {
+    "id": "B003",
+    "title": "Python",
+    "author": "Guido van Rossum",
+    "category": "CS",
+    "copies": 10
+  }
+]

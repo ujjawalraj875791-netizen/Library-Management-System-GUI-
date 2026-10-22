@@ -1,0 +1,22 @@
+[
+  {
+    "id": "U001",
+    "username": "mahesh12",
+    "full_name": "mahesh dalle",
+    "email": "m@gmail",
+    "password": {
+      "salt": "13b000eb4bbfd5c6a638dc7365077d5a",
+      "hash": "d6528001fdaa9fbbf5c4abc94d7a79e0fb4bd217372593af49ad55f524515de4"
+    }
+  },
+  {
+    "id": "U002",
+    "username": "nittu12",
+    "full_name": "nittu kumar",
+    "email": "n@gmail.com",
+    "password": {
+      "salt": "11c6ba5448244965d14b3f7a10abebd9",
+      "hash": "c81d5b59c3e979d93d3f71662783ab7dae48f9899a8546a9b5ad8f04ae3a59d7"
+    }
+  }
+]

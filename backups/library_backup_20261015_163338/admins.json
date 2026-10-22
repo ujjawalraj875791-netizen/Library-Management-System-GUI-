@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A001",
+    "username": "admin",
+    "password": {
+      "salt": "05161a07834eca6a25dbcedb540c2df7",
+      "hash": "7cf0c9ffcd8fedbe54d466b7898521e5e5034d0aade9d54cdb44c0e51c0767b0"
+    },
+    "full_name": "Main Administrator",
+    "created_at": "2026-10-15"
+  },
+  {
+    "id": "A002",
+    "username": "Govinda",
+    "full_name": "Govinda Kumar",
+    "email": "U@gmail",
+    "password": {
+      "salt": "2224de436315e5cb1e12abbbe75ef831",
+      "hash": "5563db198a9e20125b9f62189f1b5cd82fb53e98188dd313e4ddc5e05063237e"
+    },
+    "created_at": "2026-10-15"
+  }
+]
